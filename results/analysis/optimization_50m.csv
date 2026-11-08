@@ -1,0 +1,3 @@
+Optimization,Mean_seconds,Median_seconds,Std_dev_seconds,Min_seconds,Max_seconds
+-O0,1.915354,1.915416,0.009148,1.900519,1.932925
+-O2,1.177912,1.173259,0.025066,1.165126,1.283279

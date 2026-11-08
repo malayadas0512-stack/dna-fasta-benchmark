@@ -1,0 +1,11 @@
+
+===== DNA ANALYSIS RESULTS =====
+Adenine (A):   2498801
+Thymine (T):   2501109
+Guanine (G):   2500763
+Cytosine (C):  2499327
+Ambiguous (N): 0
+Other symbols: 0
+Total bases:   10000000
+GC Content:    50.00%
+===============================

@@ -1,0 +1,8 @@
+Adenine (A):   250219
+Thymine (T):   249754
+Guanine (G):   249970
+Cytosine (C):  250057
+Ambiguous (N): 0
+Other symbols: 0
+Total bases:   1000000
+GC Content:    50.00%

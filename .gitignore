@@ -1,0 +1,17 @@
+# Compiled executables
+/build/
+
+# Generated FASTA datasets
+/datasets/generated/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Temporary files
+*.tmp
+*.log
